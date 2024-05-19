@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2024-05-19T18:55:26Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.67,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Proto3-PCB v1"
+        },
+        "Owner": "Michael Johnson <mcdanlj@gmail.com>",
+        "Size": {
+            "X": 149,
+            "Y": 96
+        }
+    }
+}
